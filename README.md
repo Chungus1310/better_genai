@@ -1,30 +1,29 @@
 # Better GenAI 🚀  
 
-Welcome to **Better GenAI**, a modern and robust Python client library for interacting with the Google Gemini API! Created by **Chun**, this project is designed to streamline AI-powered content generation, with features like secure API key management, conversation memory, caching, streaming, and FastAPI integration. 😎  
+Welcome to **Better GenAI**, a modern and robust Python client library for interacting with the Google Gemini API, this project is designed to streamline AI-powered content generation, with features like secure API key management, conversation memory, caching, streaming, and FastAPI integration. 😎  
 
 ---
 
 ## 📌 Table of Contents  
 
-- [Overview](#overview)  
-- [Features](#features)  
-- [Project Structure](#project-structure)  
-- [Installation](#installation)  
-- [Configuration](#configuration)  
-- [Client Library Usage](#client-library-usage)  
-  - [Initializing the Client](#initializing-the-client)  
-  - [Basic Text Generation](#basic-text-generation)  
-  - [Conversation Memory](#conversation-memory)  
-  - [Image-based Prompting](#image-based-prompting)  
-  - [Streaming Responses](#streaming-responses)  
-  - [Batch Text Generation](#batch-text-generation)  
-  - [Prompt Improvement](#prompt-improvement)  
-  - [Enabling Additional Tools](#enabling-additional-tools)  
-  - [Model Selection](#model-selection)  
-- [FastAPI Server Usage](#fastapi-server-usage)  
-- [Running Tests](#running-tests)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Overview](#-overview)  
+- [Project Structure](#-project-structure)  
+- [Installation](#-installation)  
+- [Configuration](#-configuration)  
+- [Client Library Usage](#-client-library-usage)  
+  - [Initializing the Client](#-initializing-the-client)  
+  - [Basic Text Generation](#-basic-text-generation)  
+  - [Conversation Memory](#-conversation-memory)  
+  - [Image-based Prompting](#-image-based-prompting)  
+  - [Streaming Responses](#-streaming-responses)  
+  - [Batch Text Generation](#-batch-text-generation)  
+  - [Prompt Improvement](#-prompt-improvement)  
+  - [Enabling Additional Tools](#-enabling-additional-tools)  
+  - [Model Selection](#-model-selection)  
+- [FastAPI Server Usage](#-fastapi-server-usage)  
+- [Running Tests](#-running-tests)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
 
 ---
 
